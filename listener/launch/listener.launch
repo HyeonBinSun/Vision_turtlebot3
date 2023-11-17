@@ -1,0 +1,3 @@
+<launch>
+ <node pkg="listener" type="Cam_sub" name="subscriber" output="screen"/>
+</launch>
